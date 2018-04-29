@@ -2,7 +2,7 @@
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/NarcissusHliangZhao/Face-Liveness-Detection/blob/master/LICENSE.txt)
 
-A python package of Face Liveness Detection.
+A package of Face Liveness Detection.
 
 **Citation**:
 
