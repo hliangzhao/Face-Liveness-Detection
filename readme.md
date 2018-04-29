@@ -44,3 +44,7 @@ A python package of Face Liveness Detection.
 **License**:
 
 MIT License.
+
+**Author**:
+
+Hai-Liang Zhao (hliangzhao97@gmail.com);
