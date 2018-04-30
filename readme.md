@@ -2,13 +2,41 @@
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/NarcissusHliangZhao/Face-Liveness-Detection/blob/master/LICENSE.txt)
 
-A python package of Face Liveness Detection.
+According to the difference between real images and false photos, texture and statistical feature are extracted in different ways, this project trains SVM classifers with features below:
+
+`DoG (Difference of Gaussian)`;
+`LBP (Local Binary Pattern)`;
+`HSV histograms`;
+`HOOF (Histograms of Optical Flows)`.
+
+The dataset used are:
+
+`NUAA`;
+`CASIA_FASD`;
+`REPLAY-ATTACK`.
+
+The features and datasets are combined with each other in different ways by setting control groups. The detals can be found [here]().
+
+## Version
+Face Liveness Detection is published in 3 languages.
+
+`C++ Version`.
+You can train your SVM classifier and deploy it on the server for work.
+
+`MATLAB Version`.
+You can train different classifiers by setting control groups and analyze the correct rate.
+
+`Python Version (updating)`.
+It's updating now.
+
+
+## Others
 
 **Citation**:
 
-> HuaCheng Liu. The Gordian Technique research of Face Liveness Detection[D]. NingBo University 2014.
+> [1] HuaCheng Liu. The Gordian Technique research of Face Liveness Detection[D]. NingBo University 2014.
 
-> REPLAY-ATTACK Database.
+> [2] REPLAY-ATTACK Database.
 
 ```
 @INPROCEEDINGS{Chingovska_BIOSIG-2012,
@@ -21,7 +49,7 @@ A python package of Face Liveness Detection.
         }
 ```
 
-> CASIA-FASD Database.
+> [3] CASIA-FASD Database.
 
 ```
 @INPROCESSINGS{zhang2012face,
@@ -34,8 +62,16 @@ A python package of Face Liveness Detection.
         }
 ```
 
-> NUAA Database.
+> [4] NUAA Database.
 
+> [5] HOOF Toolbox.
+```
+R. Chaudhry, A. Ravichandran, G. Hager and R. Vidal.
+Histograms of Oriented Optical Flow and Binet-Cauchy Kernels on Nonlinear Dynamical Systems for the Recognition of Human Actions.
+CVPR, 2009.
+```
+
+> [6] LibSVM Toolovbox.
 
 **References**:
 

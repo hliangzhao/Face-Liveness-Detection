@@ -6,7 +6,7 @@ function HFDdescriptor = HFD(img, ThresholdFrequency, imgSize, HighFrequencyRadi
 %     @imgSize: the size of input mat;
 %     @HighFrequencyRadius: the radius of high frequency.
 % output parameter:
-%     @LFDFeature: the obtained HFD descriptor under currect parameter.
+%     @LFDDescriptor: the obtained HFD descriptor under currect parameter.
 
 %% default parameter
 if nargin < 4
