@@ -2,7 +2,6 @@
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/NarcissusHliangZhao/Face-Liveness-Detection/blob/master/LICENSE.txt)
 
-<<<<<<< HEAD
 According to the difference between real images and false photos, texture and statistical feature are extracted in different ways, this project trains SVM classifers with features below:
 
 `DoG (Difference of Gaussian)`;
@@ -16,7 +15,7 @@ The dataset used are:
 `CASIA_FASD`;
 `REPLAY-ATTACK`.
 
-The features and datasets are combined with each other in different ways by setting control groups. The detals can be found [here]().
+The features and datasets are combined with each other in different ways by setting control groups. The detals can be found [here](https://github.com/NarcissusHliangZhao/Face-Liveness-Detection/tree/master/version/Matlab).
 
 ## Version
 Face Liveness Detection is published in 3 languages.
@@ -32,9 +31,7 @@ It's updating now.
 
 
 ## Others
-=======
 A package of Face Liveness Detection.
->>>>>>> origin/master
 
 **Citation**:
 
