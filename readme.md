@@ -2,6 +2,7 @@
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/NarcissusHliangZhao/Face-Liveness-Detection/blob/master/LICENSE.txt)
 
+<<<<<<< HEAD
 According to the difference between real images and false photos, texture and statistical feature are extracted in different ways, this project trains SVM classifers with features below:
 
 `DoG (Difference of Gaussian)`;
@@ -31,6 +32,9 @@ It's updating now.
 
 
 ## Others
+=======
+A package of Face Liveness Detection.
+>>>>>>> origin/master
 
 **Citation**:
 
