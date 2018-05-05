@@ -29,6 +29,14 @@ You can train different classifiers by setting control groups and analyze the co
 `Python Version (updating)`.
 It's updating now.
 
+## Results
+![avatar](./results/1.svg)
+![avatar](./results/2.svg)
+![avatar](./results/3.svg)
+![avatar](./results/4.svg)
+![avatar](./results/5.svg)
+![avatar](./results/6.svg)
+
 
 ## Others
 A package of Face Liveness Detection.
