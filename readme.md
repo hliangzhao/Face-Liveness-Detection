@@ -25,6 +25,7 @@ You can train your SVM classifier and deploy it on the server for work.
 
 `MATLAB Version`.
 You can train different classifiers by setting control groups and analyze the correct rate.
+You can learn how to set control groups in this [page](https://github.com/NarcissusHliangZhao/Face-Liveness-Detection/tree/master/version/Matlab).
 
 `Python Version (updating)`.
 It's updating now.
