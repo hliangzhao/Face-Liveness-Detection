@@ -15,7 +15,7 @@ The dataset used are:
 `CASIA_FASD`;
 `REPLAY-ATTACK`.
 
-The features and datasets are combined with each other in different ways by setting control groups. The detals can be found [here](https://github.com/NarcissusHliangZhao/Face-Liveness-Detection/tree/master/version/Matlab).
+The features and datasets are combined with each other in different ways by setting control groups. The details can be found [here](https://github.com/NarcissusHliangZhao/Face-Liveness-Detection/tree/master/version/Matlab).
 
 ## Version
 Face Liveness Detection is published in 3 languages.
