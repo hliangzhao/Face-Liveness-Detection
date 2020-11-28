@@ -27,21 +27,7 @@ You can train your SVM classifier and deploy it on the server for work.
 You can train different classifiers by setting control groups and analyze the correct rate.
 You can learn how to set control groups in this [page](https://github.com/NarcissusHliangZhao/Face-Liveness-Detection/tree/master/version/Matlab).
 
-`Python Version (updating)`.
-It's updating now.
-
-## Results
-![avatar](./results/1.svg)
-![avatar](./results/2.svg)
-![avatar](./results/3.svg)
-![avatar](./results/4.svg)
-![avatar](./results/5.svg)
-![avatar](./results/6.svg)
-
-
 ## Others
-A package of Face Liveness Detection.
-
 **Citation**:
 
 > [1] HuaCheng Liu. The Gordian Technique research of Face Liveness Detection[D]. NingBo University 2014.
